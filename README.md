@@ -1,16 +1,16 @@
 # Wizarding World Database (In Progress)
 
-## Overviews
+## Overview
 This project is a relational database based on the Harry Potter universe, designed to model relationships between characters, spells, movies, and places.
 
 The goal of this project is to gain hands-on experience with database design, table creation, data modeling, and querying using SQL. Rather than focusing on perfect optimization, this project emphasizes building a complete data pipeline from schema design to analysis.
 
-## Object
+## Objectives
 - Design a relational database schema from a real-world dataset
 - Implement one-to-many and many-to-many relationships
 - Create and populate junction tables
 - Practice writing SQL queries to extract meaningful insights
-- Build an end-to-end workflow: design → load → queryives
+- Build an end-to-end workflow: design → load → query
 
 ## Database Schema
 **Core Entities:**
