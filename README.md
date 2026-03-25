@@ -29,7 +29,7 @@ The goal of this project is to gain hands-on experience with database design, ta
 Junction tables are used to properly model many-to-many relationships and maintain data integrity.
 
 ## ERD
-![ERD](hp-wizarding-world-db/wizarding_world_db/assets/erd.png)
+![ERD](wizarding_world_DB/assets/erd.png)
 
 ## Tech Stack
 - PostgreSQL
@@ -54,7 +54,7 @@ Junction tables are used to properly model many-to-many relationships and mainta
 - Which places appear in the most movies?
 - How are spells distributed across movies?
 
-See [`analysis_queries.sql`](hp-wizarding-world-db/wizarding_world_db/queries/analysis_queries.sql) for the full query list.
+See [`analysis_queries.sql`](wizarding_world_DB/queries/analysis_queries.sql) for the full query list.
 
 ## In Progress
 - Expanding query set for deeper insights
